@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.exe.config
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.exe
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.pdb
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.exe
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.pdb
+C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csprojAssemblyReference.cache
