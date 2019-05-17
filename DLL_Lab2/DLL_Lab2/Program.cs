@@ -14,7 +14,7 @@ namespace DLL_Lab2
             var assembly = Assembly.Load("Lab2_Library");
             Object instance = assembly.CreateInstance("Class1");
             var type = assembly.GetType("Class1");
-            MethodInfo method = type.GetMethod("Add");
+          
 
             Console.Write("Введите x: ");
             double b = Convert.ToDouble(Console.ReadLine());
@@ -26,16 +26,23 @@ namespace DLL_Lab2
             numbers[0] = b;
             numbers[1] = c;
 
-          //  var result = method.Invoke(instance, numbers);
 
-            Console.WriteLine(method.Invoke(instance, numbers));
+            if ((b * c) >= 0)
+            {
+                MethodInfo method = type.GetMethod("Add");
 
-            MethodInfo meth = type.GetMethod("Sub");
-         //   var result1 = meth.Invoke(instance, numbers);
-            Console.WriteLine(meth.Invoke(instance, numbers));
+                Console.WriteLine(method.Invoke(instance, numbers));
+            }
+            else
+            {
+                MethodInfo meth = type.GetMethod("Sub");
+
+                Console.WriteLine(meth.Invoke(instance, numbers));
+            }
+
+
 
             Console.ReadLine();
         }
     }
 }
-/*add и sub*/
