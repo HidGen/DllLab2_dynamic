@@ -5,3 +5,10 @@ C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csproj.CoreCompi
 C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.exe
 C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.pdb
 C:\Users\user\source\repos\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csprojAssemblyReference.cache
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.exe.config
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.exe
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\bin\Debug\DLL_Lab2.pdb
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csprojAssemblyReference.cache
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.csproj.CoreCompileInputs.cache
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.exe
+C:\GITHUB\DllLab2_dynamic\DLL_Lab2\DLL_Lab2\obj\Debug\DLL_Lab2.pdb
